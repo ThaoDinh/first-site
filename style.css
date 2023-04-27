@@ -1,0 +1,27 @@
+p {
+  color: red;
+}
+
+p.inherit-test {
+  all: revert;
+  /* font-size: 200%; */
+  /* font-weight: bold; */
+}
+#id-p-quiz5.class-p-quiz5.class-test-quiz5 {
+  color: orange;
+}
+
+#id-p-quiz5.class-p-quiz5 {
+  color: green;
+}
+
+#id-p-quiz5 {
+  color: blue;
+}
+
+#text-cap-transform {
+  text-transform: uppercase;
+}
+#text-cap-variant {
+  font-variant: small-caps;
+}
